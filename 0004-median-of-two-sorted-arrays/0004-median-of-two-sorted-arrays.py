@@ -9,7 +9,6 @@ class Solution:
 
             cut1 = (low + high) // 2
             cut2 = (m + n + 1) // 2 - cut1
-
             l1 = float('-inf') if cut1 == 0 else nums1[cut1-1]
             r1 = float('inf') if cut1 == m else nums1[cut1]
             l2 = float('-inf') if cut2 == 0 else nums2[cut2-1]
