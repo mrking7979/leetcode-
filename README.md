@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mrking7979/leetcode-/tree/master/0011-container-with-most-water) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mrking7979/leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Search
 |  |
@@ -12,9 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mrking7979/leetcode-/tree/master/0011-container-with-most-water) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mrking7979/leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Sorting
 |  |
 | ------- |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mrking7979/leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mrking7979/leetcode-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
