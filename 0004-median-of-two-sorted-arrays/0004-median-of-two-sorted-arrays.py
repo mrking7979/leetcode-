@@ -10,16 +10,16 @@ class Solution:
             cut1 = (low + high) // 2
             cut2 = (m + n + 1) // 2 - cut1
 
-            L1 = float('-inf') if cut1 == 0 else nums1[cut1-1]
-            R1 = float('inf') if cut1 == m else nums1[cut1]
-            L2 = float('-inf') if cut2 == 0 else nums2[cut2-1]
-            R2 = float('inf') if cut2 == n else nums2[cut2]
+            l1 = float('-inf') if cut1 == 0 else nums1[cut1-1]
+            r1 = float('inf') if cut1 == m else nums1[cut1]
+            l2 = float('-inf') if cut2 == 0 else nums2[cut2-1]
+            r2 = float('inf') if cut2 == n else nums2[cut2]
 
-            if L1 <= R2 and L2 <= R1:
+            if l1 <= r2 and l2 <= r1:
                 if (m+n) % 2:
-                    return max(L1, L2)
-                return (max(L1,L2) + min(R1,R2)) / 2
-            elif L1 > R2:
+                    return max(l1, l2)
+                return (max(l1,l2) + min(r1,r2)) / 2
+            elif l1 > r2:
                 high = cut1 - 1
             else:
                 low = cut1 + 1
