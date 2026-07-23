@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mrking7979/leetcode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrking7979/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mrking7979/leetcode-/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/mrking7979/leetcode-/tree/master/0066-plus-one) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mrking7979/leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mrking7979/leetcode-/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/mrking7979/leetcode-/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
